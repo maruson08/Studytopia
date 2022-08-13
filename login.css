@@ -1,0 +1,32 @@
+#form {
+    max-width: 800px;
+    width: 70%;
+    padding: 5%;
+    padding-top: 15%;
+    padding-bottom: 20%;
+    margin: auto;
+}
+#form button{
+    display: block;
+    width: 100%;
+}
+#formpar{
+    display: flex;
+}
+#id,#pwd{
+
+    width: 100%;
+    margin: auto;
+    border: none;
+    border-bottom: 0.5px powderblue solid;
+    outline: none;
+    height: 30px;
+}
+input[type = submit]:hover, button:hover{
+    background-color: rgb(136, 180, 185);
+}
+input[type = submit], button{
+    margin: 3px;
+    height: 30px;
+    width: 100%;
+}

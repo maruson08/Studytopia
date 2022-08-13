@@ -1,0 +1,10 @@
+#logina{
+    padding: 2%;
+    text-align: center;
+    height: 20px;
+}
+button{
+    width: 100%;
+    min-width: 50px;
+    max-width: 100px;
+}
