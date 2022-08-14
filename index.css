@@ -8,3 +8,9 @@ button{
     min-width: 50px;
     max-width: 100px;
 }
+.nav_logo{
+    filter: grayscale(100%);
+}
+.nav_logo:hover{
+    filter: grayscale(0%);
+}
